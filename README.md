@@ -1,4 +1,4 @@
-# Apache Cloudstack Network ACK Terraform module
+# Apache Cloudstack Network ACL Terraform module
 
 Terraform module which creates network ACLs for VPCs in Apache CloudStack
 environments.
