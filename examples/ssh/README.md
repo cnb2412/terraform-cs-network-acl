@@ -31,6 +31,8 @@ No input.
 
 ## Outputs
 
-No output.
+| Name | Description |
+|------|-------------|
+| id | ID of the network ACL |
 
 <!-- END OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
