@@ -19,7 +19,9 @@ Run `terraform destroy` when you don't need these resources.
 <!-- BEGINNING OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
 ## Requirements
 
-No requirements.
+| Name | Version |
+|------|---------|
+| terraform | >= 0.13 |
 
 ## Providers
 
@@ -31,8 +33,6 @@ No input.
 
 ## Outputs
 
-| Name | Description |
-|------|-------------|
-| id | ID of the network ACL |
+No output.
 
 <!-- END OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
